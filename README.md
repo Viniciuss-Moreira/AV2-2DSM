@@ -16,9 +16,11 @@ O AeroCode é uma aplicação de alta fidelidade desenvolvida com foco em Arquit
 
 ```bash
 # Clone o Projeto
-git clone <url-do-repositorio>
+git clone https://github.com/Viniciuss-Moreira/AV2-2DSM
 
 # Acesse o diretório principal do projeto web
+cd AV2-DSM
+
 cd aerocode-gui
 
 # Instale as dependências
